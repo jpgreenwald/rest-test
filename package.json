@@ -1,0 +1,13 @@
+{
+  "name": "rest-test",
+  "version": "0.0.1",
+  "description": "lightweight rest test framework",
+  "main": "app.js",
+  "author": "Jesse Greenwald",
+  "dependencies": {
+    "mocha": "~1.8.1",
+    "restify": "~2.2.1",
+    "should": "~1.2.1",
+    "bunyan": "~0.18.2"
+  }
+}
